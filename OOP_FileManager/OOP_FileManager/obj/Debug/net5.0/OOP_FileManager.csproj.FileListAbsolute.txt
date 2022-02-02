@@ -1,0 +1,16 @@
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\bin\Debug\net5.0\OOP_FileManager.exe
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\bin\Debug\net5.0\OOP_FileManager.deps.json
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\bin\Debug\net5.0\OOP_FileManager.runtimeconfig.json
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\bin\Debug\net5.0\OOP_FileManager.runtimeconfig.dev.json
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\bin\Debug\net5.0\OOP_FileManager.dll
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\bin\Debug\net5.0\ref\OOP_FileManager.dll
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\bin\Debug\net5.0\OOP_FileManager.pdb
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\obj\Debug\net5.0\OOP_FileManager.csproj.AssemblyReference.cache
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\obj\Debug\net5.0\OOP_FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\obj\Debug\net5.0\OOP_FileManager.AssemblyInfoInputs.cache
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\obj\Debug\net5.0\OOP_FileManager.AssemblyInfo.cs
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\obj\Debug\net5.0\OOP_FileManager.csproj.CoreCompileInputs.cache
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\obj\Debug\net5.0\OOP_FileManager.dll
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\obj\Debug\net5.0\ref\OOP_FileManager.dll
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\obj\Debug\net5.0\OOP_FileManager.pdb
+C:\Users\ermos\Desktop\OOP_FileManager\OOP_FileManager\OOP_FileManager\obj\Debug\net5.0\OOP_FileManager.genruntimeconfig.cache
